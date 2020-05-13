@@ -1,5 +1,5 @@
 code: sidebar-fragmetn
 
-guiCode >-
+guiCode: >-
   "<h1>This is the fragment title</h1>"
 
